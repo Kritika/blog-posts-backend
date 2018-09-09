@@ -1,2 +1,2 @@
-# blog-posts-backend
+# Blog-posts-backend
 This will contain backend code for the blog.
